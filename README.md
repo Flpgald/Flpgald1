@@ -3,7 +3,7 @@ Olá!!! Tudo bem??
 
 Meu nome é Felipe Galdino.
 - Estou entrando no github para adquirir conhecimento.
-- Sou um estudante que esta cursando a plataforma alura
+- Sou um estudante que esta cursando a plataforma [Alura](https://www.alura.com.br)
 - Quero conhecer muito sobre programação e como fazer jogos
 - Estou estudando a linguagem java script
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
