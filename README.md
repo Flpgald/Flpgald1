@@ -1,5 +1,5 @@
 Olá!!! Tudo bem??
-**Bem-vindo ao meu perfil!!!**
+### Bem-vindo ao meu perfil!!! 💙
 
 Meu nome é Felipe Galdino.
 - Estou entrando no github para adquirir conhecimento.
@@ -8,6 +8,6 @@ Meu nome é Felipe Galdino.
 - Estou estudando a linguagem java script
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-## Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
 felipe.pereira.santos19@escola.pr.gov.br 
